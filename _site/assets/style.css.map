@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"sourcesContent": [
+		".bd-placeholder-img {\n    font-size: 1.125rem;\n    text-anchor: middle;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    user-select: none;\n  }\n\n  @media (min-width: 768px) {\n    .bd-placeholder-img-lg {\n      font-size: 3.5rem;\n    }\n  }\n  .para{\n      background-color: red;\n  }\n  .bd-placeholder-img {\n    font-size: 1.125rem;\n    text-anchor: middle;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    user-select: none;\n  }\n\n  @media (min-width: 768px) {\n    .bd-placeholder-img-lg {\n      font-size: 3.5rem;\n    }\n  }\n  .bd-placeholder-img {\n    font-size: 1.125rem;\n    text-anchor: middle;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    user-select: none;\n  }\n\n  @media (min-width: 768px) {\n    .bd-placeholder-img-lg {\n      font-size: 3.5rem;\n    }\n  }\n\n  "
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,mBAAmB,CAAC,EAChB,SAAS,EAAE,QAAQ,EACnB,WAAW,EAAE,MAAM,EACnB,mBAAmB,EAAE,IAAI,EACzB,gBAAgB,EAAE,IAAI,EACtB,WAAW,EAAE,IAAI,GAClB;;AAED,MAAM,mBACJ,GAAA,AAAA,sBAAsB,CAAC,EACrB,SAAS,EAAE,MAAM,GAClB,EAAA;;AAEH,AAAA,KAAK,CAAA,EACD,gBAAgB,EAAE,GAAG,GACxB;;AACD,AAAA,mBAAmB,CAAC,EAClB,SAAS,EAAE,QAAQ,EACnB,WAAW,EAAE,MAAM,EACnB,mBAAmB,EAAE,IAAI,EACzB,gBAAgB,EAAE,IAAI,EACtB,WAAW,EAAE,IAAI,GAClB;;AAED,MAAM,mBACJ,GAAA,AAAA,sBAAsB,CAAC,EACrB,SAAS,EAAE,MAAM,GAClB,EAAA;;AAEH,AAAA,mBAAmB,CAAC,EAClB,SAAS,EAAE,QAAQ,EACnB,WAAW,EAAE,MAAM,EACnB,mBAAmB,EAAE,IAAI,EACzB,gBAAgB,EAAE,IAAI,EACtB,WAAW,EAAE,IAAI,GAClB;;AAED,MAAM,mBACJ,GAAA,AAAA,sBAAsB,CAAC,EACrB,SAAS,EAAE,MAAM,GAClB,EAAA"
+}
